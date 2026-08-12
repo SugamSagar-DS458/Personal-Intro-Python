@@ -14,7 +14,7 @@ The objective of this project is to create an interactive command-line Python ap
 * personal_intro.py: The main Python script containing the input and output logic.
 * requirements.txt: Lists any dependencies (blank for this standard library project).
 * README.md: Project documentation and guidelines.
-* screenshot.png: Visual proof of execution.
+* Screenshot 2026-08-12 125003.png: Visual proof of execution.
 
 ## Technical Details
 * **input() Function**: Used to pause execution and capture alphanumeric strings from the userVariableses**: Dynamically typed variables (name, age, hobby) hold the string data in memoryFormatted String Literals (f-strings)s)**: Utilized for efficient, readable string interpolation to inject user variables directly into the welcoming output template.
