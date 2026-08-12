@@ -12,6 +12,7 @@ The objective of this project is to create an interactive command-line Python ap
    
 ## Code Structure
 * personal_intro.py: The main Python script containing the input and output logic.
+* requirements.txt: Lists any dependencies (blank for this standard library project).
 * README.md: Project documentation and guidelines.
 * screenshot.png: Visual proof of execution.
 
